@@ -1,6 +1,8 @@
 http2讲解
 =======
 
+> 本开源书 forked from [http2讲解](https://github.com/bagder/http2-explained)，作者为 [bagder](https://github.com/bagder)，欢迎大家 star 原作者的 [repo](https://github.com/bagder/http2-explained)，以便获得最新更新，谢谢！
+
 这是一篇详细讲解HTTP/2（[RFC
 7540](https://httpwg.github.io/specs/rfc7540.html)）的文档，主要内容包括该协议的背景、思想、协议本身的内容、对一些现有实现的探讨与对协议未来的展望。
 
