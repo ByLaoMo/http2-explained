@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [背景](part1.md)
+  * [背景](part1.md)
 * [HTTP的现状](part2.md)
 * [那些年，克服延迟之道](part3.md)
 * [升级HTTP](part4.md)
